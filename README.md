@@ -20,7 +20,7 @@ A telegram bot token
 Clone the repository to your web server root directory.
 
 ```
-git clone 
+git clone https://github.com/cs-ehu/DIPC-BOT.git
 ```
 Create a Telegram bot ([Official tutorial](https://core.telegram.org/bots#6-botfather)]) and make sure to write down your bot's token.  
 
